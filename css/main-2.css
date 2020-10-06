@@ -1,0 +1,99 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}   
+
+.link{
+    text-decoration: none;
+    color: #fcf8f3;
+    padding: 0px 100px;
+    font-family: 'Anton', sans-serif;
+} 
+.link:hover{
+    background-color: #ffaaa5;
+    color: #41aea9;
+}
+.home{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/ayo.png);
+    background-size: cover;
+    text-align: center;
+    padding: 200px 50px;
+}
+.img.tengah{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*heading*/
+.heading-1{
+    font-family: 'Alata', sans-serif;
+    font-size: 50px;
+    color: #132743;
+    margin: right-top 70px 0px;
+}
+.heading-2{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 40px;
+    color: #7d5a5a;
+    margin: left;
+}
+.heading-3{
+    font-family: 'Alata', sans-serif;
+    min-height: 100px
+    font-size: 20px;
+    color: #132743;
+    margin: auto;
+}
+
+/**Section Content**/
+.content{
+    width: 100%;
+    min-height: 400px;
+    background-color:#f6def6;
+    padding: 100px 0px;
+}
+
+/**content 2**/
+.content2{
+    background: #efbbcf;
+    width: 100%;
+    min-height: 400%;
+    padding: 100px 0px;
+}
+.col-border{
+    min-height: 100px;
+    border: dotted 5px #fff;
+    text-align: center;
+    padding:10px 0px;
+}
+.content3{
+  background: #c3aed6;
+    width: 100%;
+    min-height: 400%;
+    padding: 100px 0px;   
+}
+.heading-5{
+    font-family: 'Alata', sans-serif;
+    min-height: 100px
+    font-size: 20px;
+    color: #132743;
+    margin: auto;
+}
+.heading-7{
+    font-family: 'Alata', sans-serif;
+    min-height: 100px
+    font-size: 20px;
+    color: #132743;
+    margin: auto;
+}
+.fa-facebook-square {
+    color: #394989;
+}
+.fa-whatsapp{
+    color: #006a71;
+}
+.fa-instagram{
+    color: #d63447;
+}
